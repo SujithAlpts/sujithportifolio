@@ -1,0 +1,191 @@
+<div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+          <div class="portfolio-filters-container" data-aos="fade-up" data-aos-delay="200">
+            <ul class="portfolio-filters isotope-filters">
+              <li data-filter="*" class="filter-active">All Work</li>
+              <li data-filter=".filter-web">Learning Management System</li>
+              <li data-filter=".filter-graphics">E-commerce</li>
+              <li data-filter=".filter-motion">Packages</li>
+              <li data-filter=".filter-brand">Brandig</li>
+            </ul>
+          </div>
+
+          <div class="row g-4 isotope-container" data-aos="fade-up" data-aos-delay="300">
+
+            <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-web">
+              <div class="portfolio-card">
+                <div class="portfolio-image">
+                  <img src="assets/img/portfolio/oyster.png" class="img-fluid" alt="" loading="lazy">
+                  <div class="portfolio-overlay">
+                    <div class="portfolio-actions">
+                      <a href="assets/img/portfolio/portfolio-1.webp" class="glightbox preview-link"
+                        data-gallery="portfolio-gallery-web"><i class="bi bi-eye"></i></a>
+                      <a href="portfolio-details.html" class="details-link"><i class="bi bi-arrow-right"></i></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="portfolio-content">
+                  <div class="platform-icons" style="margin-top: 16px; padding-left: 16px;">
+                    <div class="platform-badge android">
+                      <i class="bi bi-android2"></i>
+                      <span>Android</span>
+                    </div>
+                    <div class="platform-badge ios">
+                      <i class="bi bi-apple"></i>
+                      <span>iOS</span>
+                    </div>
+                  </div>
+                  <span class="category">LMS</span>
+                  <h3>Oyster Accademy</h3>
+                  <p>Oyster Academy simplifies online learning by combining intuitive UI, structured course flows.The
+                    platform supports both self-paced learning and instructor-led courses, enabling learners to progress
+                    efficiently and instructors to monitor performance and engagement.</p>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-graphics">
+              <div class="portfolio-card">
+                <div class="portfolio-image">
+                  <img src="assets/img/portfolio/portfolio-10.webp" class="img-fluid" alt="" loading="lazy">
+                  <div class="portfolio-overlay">
+                    <div class="portfolio-actions">
+                      <a href="assets/img/portfolio/portfolio-10.webp" class="glightbox preview-link"
+                        data-gallery="portfolio-gallery-graphics"><i class="bi bi-eye"></i></a>
+                      <a href="portfolio-details.html" class="details-link"><i class="bi bi-arrow-right"></i></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="portfolio-content">
+                  <div class="platform-icons" style="margin-top: 16px; padding-left: 16px;">
+                    <div class="platform-badge android">
+                      <i class="bi bi-android2"></i>
+                      <span>Android</span>
+                    </div>
+                    <div class="platform-badge ios">
+                      <i class="bi bi-apple"></i>
+                      <span>iOS</span>
+                    </div>
+                  </div>
+                  <span class="category">LMS</span>
+                  <h3>Caams Learning</h3>
+                  <p>Caams Learning is a comprehensive LMS designed to help learners prepare for cooperative and banking
+                    examinations. It offers structured courses, interactive lessons, and practice tests to enhance
+                    skills and maximize exam readiness.</p>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-motion">
+              <div class="portfolio-card">
+                <div class="portfolio-image">
+                  <img src="assets/img/portfolio/portfolio-7.webp" class="img-fluid" alt="" loading="lazy">
+                  <div class="portfolio-overlay">
+                    <div class="portfolio-actions">
+                      <a href="assets/img/portfolio/portfolio-7.webp" class="glightbox preview-link"
+                        data-gallery="portfolio-gallery-motion"><i class="bi bi-eye"></i></a>
+                      <a href="portfolio-details.html" class="details-link"><i class="bi bi-arrow-right"></i></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="portfolio-content">
+                  <div class="platform-icons" style="margin-top: 16px; padding-left: 16px;">
+                    <div class="platform-badge android">
+                      <i class="bi bi-android2"></i>
+                      <span>Android</span>
+                    </div>
+                    <div class="platform-badge ios">
+                      <i class="bi bi-apple"></i>
+                      <span>iOS</span>
+                    </div>
+                  </div>
+                  <span class="category">Packages</span>
+                  <h3>alp_animated_splashscreen</h3>
+                  <p>animated_splashscreen is a Flutter package that provides an easy way to implement an animated
+                    splash screen in your Flutter apps. This package allows you to create smooth transitions and
+                    customizable splash screens with minimal code.</p>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-brand">
+              <div class="portfolio-card">
+                <div class="portfolio-image">
+                  <img src="assets/img/portfolio/portfolio-4.webp" class="img-fluid" alt="" loading="lazy">
+                  <div class="portfolio-overlay">
+                    <div class="portfolio-actions">
+                      <a href="assets/img/portfolio/portfolio-4.webp" class="glightbox preview-link"
+                        data-gallery="portfolio-gallery-brand"><i class="bi bi-eye"></i></a>
+                      <a href="portfolio-details.html" class="details-link"><i class="bi bi-arrow-right"></i></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="portfolio-content">
+                  <div class="platform-icons" style="margin-top: 16px; padding-left: 16px;">
+                    <div class="platform-badge android">
+                      <i class="bi bi-android2"></i>
+                      <span>Android</span>
+                    </div>
+                    <div class="platform-badge ios">
+                      <i class="bi bi-apple"></i>
+                      <span>iOS</span>
+                    </div>
+                  </div>
+                  <span class="category">E commerce</span>
+                  <h3>ScrapMate</h3>
+                  <p>ScrapMate is your premier platform for turning waste into value in Keral & TamilNadu. Connect with
+                    verified scrap buyers offering competitive rates for all kinds of recyclable materials — metals,
+                    e-waste, automotive scrap, plastics, and more.</p>
+                </div>
+              </div>
+            </div>
+            <!-- End Portfolio Item -->
+
+            <!-- <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-web">
+              <div class="portfolio-card">
+                <div class="portfolio-image">
+                  <img src="assets/img/portfolio/portfolio-2.webp" class="img-fluid" alt="" loading="lazy">
+                  <div class="portfolio-overlay">
+                    <div class="portfolio-actions">
+                      <a href="assets/img/portfolio/portfolio-2.webp" class="glightbox preview-link"
+                        data-gallery="portfolio-gallery-web"><i class="bi bi-eye"></i></a>
+                      <a href="portfolio-details.html" class="details-link"><i class="bi bi-arrow-right"></i></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="portfolio-content">
+                  <span class="category">Web Design</span>
+                  <h3>E-commerce Platform</h3>
+                  <p>Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                </div>
+              </div>
+            </div>End Portfolio Item -->
+
+            <!-- <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-graphics">
+              <div class="portfolio-card">
+                <div class="portfolio-image">
+                  <img src="assets/img/portfolio/portfolio-11.webp" class="img-fluid" alt="" loading="lazy">
+                  <div class="portfolio-overlay">
+                    <div class="portfolio-actions">
+                      <a href="assets/img/portfolio/portfolio-11.webp" class="glightbox preview-link"
+                        data-gallery="portfolio-gallery-graphics"><i class="bi bi-eye"></i></a>
+                      <a href="portfolio-details.html" class="details-link"><i class="bi bi-arrow-right"></i></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="portfolio-content">
+                  <span class="category">Graphics</span>
+                  <h3>Digital Art Collection</h3>
+                  <p>Cras mattis consectetur purus sit amet fermentum.</p>
+                </div>
+              </div>
+            </div>End Portfolio Item -->
+
+          </div>
+          <!-- End Portfolio Container -->
+
+        </div>
+
+      </div>
